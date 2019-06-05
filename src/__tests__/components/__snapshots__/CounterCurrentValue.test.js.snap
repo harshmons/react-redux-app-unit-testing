@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CounterCurrentValue /> should matches the stored snapshot 1`] = `"Counter current value :  10 "`;

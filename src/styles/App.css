@@ -1,0 +1,14 @@
+.currentValueContainer{
+    border:3px solid grey;
+    border-radius: 4px;
+    padding:15px;
+    margin:20px 5px;
+}
+
+.button{
+    margin:10px;
+}
+
+.stored-counters{
+    margin:10px;
+}
