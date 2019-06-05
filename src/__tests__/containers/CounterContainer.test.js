@@ -1,5 +1,5 @@
 import React from "react";
-import {shallow,mount} from "enzyme";
+import {shallow} from "enzyme";
 import thunk from "redux-thunk";
 import configureStore from "redux-mock-store";
 import CounterContainer from "../../containers/CounterContainer"
